@@ -11,7 +11,7 @@
 
 > You can either use Github Desktop, or clone in Git terminal using:
 ```
-git clone https://github.com/strato67/Bookstore.git
+git clone https://github.com/Jp-s24/Online-Book-Store.git
 cd Bookstore
 ```
 
